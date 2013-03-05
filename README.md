@@ -1,13 +1,12 @@
-# Install AppCleaner Puppet Module for Boxen
+# Install Github for Mac Puppet Module for Boxen
 
-AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
+GitHub for Mac - The easiest way to share your code with GitHub
 
-
-See http://www.freemacsoft.net/appcleaner/ for more. 
+See mac.github.com for more. 
 
 ## Usage
 
-```include appcleaner```
+```include github-mac```
 
 
 ## Development
