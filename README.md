@@ -6,7 +6,7 @@ See mac.github.com for more.
 
 ## Usage
 
-```include github-mac```
+```include githubapp```
 
 
 ## Development
