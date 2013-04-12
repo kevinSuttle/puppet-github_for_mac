@@ -1,8 +1,8 @@
-# Install Github for Mac Puppet Module for Boxen
+# Install GitHub for Mac Puppet Module for Boxen
 
 GitHub for Mac - The easiest way to share your code with GitHub
 
-See mac.github.com for more. 
+See mac.github.com for more.
 
 ## Usage
 
